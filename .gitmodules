@@ -1,6 +1,4 @@
-[submodule "morelo"]
-	path = morelo
-	url = https://github.com/MoreloNetwork/morelo.git
+
 [submodule "src/third-party/polyseed"]
 	path = src/third-party/polyseed
 	url = https://github.com/tevador/polyseed.git
